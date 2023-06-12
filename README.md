@@ -1,6 +1,6 @@
 Welcome :)
 
-# Links
+# Find me at
 
 <a href="https://github.com/matejetz" style="outline: none"><img src="assets/img/logo-github.png" style="width: 30%; margin-left:-2%"></a>
 
